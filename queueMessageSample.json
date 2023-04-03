@@ -1,0 +1,36 @@
+{
+    "MessageId": "28ec9667-bbd7-440b-bbaf-7fae888d2896",
+    "ReceiptHandle": "AQEB9oGu8A4Lly4h6d7tL8jVT72OWSa861W3mmhjKrlLwuUvTwLTSD8bIOyjmNvdy8XKDd8rL6RCNibnP9g8YYo7oJ1xe02fh9YqJ5MoIPgkyQmJnrXQ1N4G12a+lkGBEFPUZyPIwmgxYtcPRxapoXsUoOI1qrkVK09ZZIJZYh0jmECqokAIIgu+iFGBFN4mm4czPWW3uDFT20eRoYlhbkXSnoZY/ToyUVS2w1bvnqdjo7Uj1HgUtlp7k2umbVtSYHYvexwoP/uxttIgC2xXn/NB/hL5spIbHWZacuFrXd36mKtm5m5x1RfikaSsl1WjIju0Y5oLMcmjGjVZBkJNK09+qYIdEz70aAwdM7EFLLBvfsavhsww0JiIU7uxD6vNDiAObFUIhTHB+rfM/bu0X17/FVD9rIyEaE1YhBuf6TNWuGLXfzjy/lqgqJeoNOC6tSeg",
+    "MD5OfBody": "cea8a4af88a9c3f545f16a8629edaa6b",
+    "Body": "{\"stockname\":\"MLC\",\"from\":\"n de place\",\"qty\":\"25\",\"price\":\"4\"}",
+    "Attributes": {
+        "SentTimestamp": "1680203229318"
+    },
+    "MD5OfMessageAttributes": "18c6dcf138a4c008e60075f04a768d17",
+    "MessageAttributes": {
+        "b3": {
+            "StringValue": "6425ddda79bb21fe1e49b0d5051f1ba3-d880d4bc32c03bfe-1",
+            "DataType": "String"
+        },
+        "traceparent": {
+            "StringValue": "00-6425ddda79bb21fe1e49b0d5051f1ba3-d880d4bc32c03bfe-01",
+            "DataType": "String"
+        },
+        "x-amzn-trace-id": {
+            "StringValue": "Root=1-6425ddda-79bb21fe1e49b0d5051f1ba3;Parent=d880d4bc32c03bfe;Sampled=1",
+            "DataType": "String"
+        },
+        "x-b3-sampled": {
+            "StringValue": "1",
+            "DataType": "String"
+        },
+        "x-b3-spanid": {
+            "StringValue": "d880d4bc32c03bfe",
+            "DataType": "String"
+        },
+        "x-b3-traceid": {
+            "StringValue": "6425ddda79bb21fe1e49b0d5051f1ba3",
+            "DataType": "String"
+        }
+    }
+}

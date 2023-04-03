@@ -1,0 +1,10 @@
+node_modules/
+
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+package.json
+yarn.lock
+cdk.out
